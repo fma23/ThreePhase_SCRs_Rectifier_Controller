@@ -8,8 +8,9 @@ The second VHDL generates SCRs gates pulses with a width of 120 degrees. This ti
 The clock frequency is 100Mhz.
 
 More information about fully controlled 3 phase SCR rectifiers can be found at the links below:
-http://www.worldcolleges.info/sites/default/files/enggnotes/three-phase_controlled_rectifiers.pdf
-http://www4.hcmut.edu.vn/~nvnho/Download/EngPE/Chapter3_Phase_Controlled_Rectifier.pdf
-http://www.euedia.tuiasi.ro/lab_ep/ep_files/Lab_no_13_c1.pdf
+
+http://www.worldcolleges.info/sites/default/files/enggnotes/three-phase_controlled_rectifiers.pdf 
+http://www4.hcmut.edu.vn/~nvnho/Download/EngPE/Chapter3_Phase_Controlled_Rectifier.pdf 
+http://www.euedia.tuiasi.ro/lab_ep/ep_files/Lab_no_13_c1.pdf 
 
 Any feedbacks please share with me at: fma23@sfu.ca
